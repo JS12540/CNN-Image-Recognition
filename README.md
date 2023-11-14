@@ -1,5 +1,3 @@
-# CNN-Image-Recognition
-
 # Convolutional Neural Network (CNN) with Data Augmentation using TensorFlow
 
 This repository contains a Convolutional Neural Network (CNN) implemented in TensorFlow for the CIFAR-10 dataset. The model is designed with increased complexity and includes data augmentation techniques for improved generalization.
