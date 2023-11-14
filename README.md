@@ -10,14 +10,9 @@ The model is trained for 20 epochs with data augmentation. Here are the key resu
 
 ### Training Log
 
-Epoch 1/20
-1563/1563 [==============================] - 52s 31ms/step - loss: 1.5027 - accuracy: 0.4664 - val_loss: 2.0020 - val_accuracy: 0.3557 - lr: 0.0010
-...
 Epoch 20/20
 1563/1563 [==============================] - 42s 27ms/step - loss: 0.4825 - accuracy: 0.8330 - val_loss: 0.5493 - val_accuracy: 0.8096 - lr: 2.4660e-04
 
-bash
-Copy code
 
 ### Test Accuracy
 
