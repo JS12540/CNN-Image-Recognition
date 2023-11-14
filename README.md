@@ -21,7 +21,7 @@ The final test accuracy achieved is 81.19%.
 ## Usage
 
 1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/JS12540/CNN-Image-Recognition.git
    cd your-repository
    
 Install the required dependencies:
